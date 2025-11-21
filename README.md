@@ -47,13 +47,13 @@ This repository contains **enterprise-grade backend solutions, dynamic web apps,
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VisvesvarayaCode&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshay26april&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VisvesvarayaCode&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay26aprilCode&layout=compact&theme=tokyonight)
 
 ---
 
